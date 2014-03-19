@@ -1,0 +1,14 @@
+{
+  "name": "nextbus-proxy",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "restbus": "^1.0.1"
+  }
+}
